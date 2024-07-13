@@ -16,5 +16,5 @@ Take Part in **Practical Projects** Such as developing
 - Use User Authentication
 - Responsive UI design
 
-  [30-Days-of-JavaScript-Challenge
+  [30-Days-of-JavaScript-Challenge]
   (https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge)
