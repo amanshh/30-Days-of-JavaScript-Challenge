@@ -1,0 +1,44 @@
+// Variables and Data Types
+
+// Variable Declaration
+// task-1:  Declare a variable using var, assign it in a number, and log the value to the console.
+var a = 5;
+console.log(a);
+// task-2: Declare a variable using let, assign it in a String, and log the value to the console.
+let name = "Aman Singh";
+console.log(name);
+
+// Constant Declaration
+// task-3: Declare a variable using const, assign it in a boolean value, and log the value to the console.
+const Isloggedin = false;
+console.log(Isloggedin);
+
+// Data Types
+// task-4: Create variables of different data types (number, string, boolean, object, array) and log each variable's type using the typeof operatoe.
+
+let marks = 78;
+console.log(typeof 78);
+let FirstName = "Aman";
+console.log(typeof "Aman");
+const Islogout = true;
+console.log(typeof true);
+const mark = [23, 54,63,54,66,75];
+console.log(typeof mark);
+
+let Fname = ["Sahil","Manu","Priyanshu"];
+console.log(typeof Fname); 
+// Learning: object (meaning any object, including arrays)
+// calling a typeof Operator
+
+// Reassigning Variables
+// task-5: Declare a variable using let, assign it in a initial value, reassign a new value and log both values to the console.
+let cars = "Tesla";
+cars = "Range Rover"
+console.log(cars);
+
+// Understanding const
+// task-6: Try reassigning a variable declared with const and observe the error.
+const vehicle = "Tesla";
+vehicle = "Range Rover"
+console.log(vehicle);
+
